@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+statsmodels==0.15.0
+scikit-learn==1.8.0
+doubleml==0.11.4
+ipykernel==7.4.0
+notebook>=7,<8
